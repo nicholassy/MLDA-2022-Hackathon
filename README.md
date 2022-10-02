@@ -16,9 +16,9 @@ Our Team Members:
  
  ## Problem Definition:
  
- Therefore, our Team has decided to focus on the healthcare sector to help elevate the medical literacy of the citizens of Singapore. Since individuals are prone to diseases of any spectrum; Hereditary or Non-Heriditary.
+ Therefore, our Team has decided to focus on the healthcare sector to help elevate the medical literacy of the citizens of Singapore. 
  
- The disease that our team will be tackling on:
+ Since individuals are prone to diseases of any spectrum; Hereditary or Non-Heriditary. The disease that our team will be tackling on:
  - Heart Disease
  - Cardiovascular Disease
  
