@@ -12,7 +12,7 @@ Our Team Members:
  
  The SMART Nation is an initiative created by the Singapore Government to harness infocomm technology, networks and big data to create tech-enabled solutions. 
  
- Add in the fact that in Singapore, 21 people die from cardiovascular disease everyday and it accounted for 32% of all deaths in Singapore during the year 2021.
+ Add in the fact that [in Singapore](https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=In%20Singapore%2C%2021%20people%20die,to%20heart%20diseases%20or%20stroke), 21 people die from cardiovascular disease everyday and it accounted for 32% of all deaths in Singapore during the year 2021.
  
  ## Problem Definition:
  
